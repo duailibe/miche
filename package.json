@@ -1,6 +1,6 @@
 {
   "name": "@duailibe/miche",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "devDependencies": {
     "jest": "^24.9.0",
